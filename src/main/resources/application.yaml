@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: logging-spring-webflux
+    
+logging:
+  level:
+    org.zalando.logbook: TRACE
